@@ -3,6 +3,7 @@
 
 int main(void) {
     int a = 0, b = 1;
+    printf("Файл работает с ОС Linux!");
     while (b) {
         printf("С чем вы хотите поработать?\n");
         printf("---------------------------\n");
